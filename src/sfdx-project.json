@@ -1,0 +1,16 @@
+{
+  "packageDirectories" : [ {
+    "path" : "Module1",
+    "default" : true,
+    "package" : "Module1",
+    "versionName" : "Module1",
+    "versionNumber" : "1.0.0.0"
+  } ],
+  "namespace" : "",
+  "sfdcLoginUrl" : "https://login.salesforce.com",
+  "sourceApiVersion" : "46.0",
+  "packageAliases" : {
+    "Module1" : "0Ho2v000000blRICAY",
+    "Module1@1.0.0.0" : "04t2v000003MqdUAAS"
+  }
+}
